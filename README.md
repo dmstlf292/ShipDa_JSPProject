@@ -1,16 +1,18 @@
-# ShipDa_JSPProject
-ShipDa_Project
+# ShipDa_JSP Project
+# 프로젝트 간략 소개
+* 물류 포워딩 업체 견적의뢰서를 온라인 플랫폼에 올림으로서 쉽고 빠르게 실시간으로 견적진행 확인 밑 견적을 받을 수 있도록 하는 온라인 중계 물류 견적사이트.
 
+# 기능 소개
+* 수입,수출 물류 견적요청서 작성 및 리스트로 나타날 수 있도록 게시판 기능 구현
+* 회원들끼리 실시간 채팅이 가능하도록 기능 구현 및 친구찾기 기능 구현
+* 견적에 참여가 가능하도록 유로서비스 플랫폼 구축 -> 회원제로 운영되며 결제기능 구현
 
-- 물류 포워딩 업체 견적의뢰서를 온라인 플랫폼에 올림으로서 쉽고 빠르게 실시간으로 견적진행 확인 밑 견적을 받을 수 있도록 하는 온라인 중계 물류 견적사이트.
-- 물류 견적 뿐만 아니라 통관사(관세사) 컨택도 가능한 사이트.
-- 실시간으로 담당자와의 채팅, 메시지 주고받기가 가능하며 회원아이디 찾기, 업무 시간 이외에 chatbot으로 간단한 채팅이 가능하도록 구축.
-- 견적에 참여 가능할 수 있도록 포워딩업체, 통관사(관세사)는 별도의 수수료를 지불하여야 하며 유료회원제로 진행 및 고객들의 needs에 맞추어 접근 가능하도록 
-  clients and logistics company or customs broker service 중계 플랫폼 제공.
+# 부족한 및 아쉬운점, 느낀점
 
+# 레파지토리
 ![repository_screen](https://user-images.githubusercontent.com/73155839/109601583-7a12dc80-7b62-11eb-8fed-f848718b07d7.png)
 
-
+# 기능구현
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/109601656-9f074f80-7b62-11eb-80b0-5ac079f2f2c2.png">
 <img src="https://user-images.githubusercontent.com/73155839/109601660-a0387c80-7b62-11eb-8838-495180614078.png">
