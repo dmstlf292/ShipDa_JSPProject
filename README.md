@@ -6,7 +6,7 @@ ShipDa_Project
 
 
 
-<p align="center">
+
 ![000](https://user-images.githubusercontent.com/73155839/109601656-9f074f80-7b62-11eb-80b0-5ac079f2f2c2.png)
 ![001](https://user-images.githubusercontent.com/73155839/109601660-a0387c80-7b62-11eb-8838-495180614078.png)
 ![002](https://user-images.githubusercontent.com/73155839/109601661-a0d11300-7b62-11eb-86fd-c9ea98d0430f.png)
@@ -23,5 +23,4 @@ ShipDa_Project
 ![013](https://user-images.githubusercontent.com/73155839/109601702-ad556b80-7b62-11eb-9b59-098b654c2dad.png)
 ![014](https://user-images.githubusercontent.com/73155839/109601704-adee0200-7b62-11eb-8ab0-eae7c71dd8b7.png)
 ![016](https://user-images.githubusercontent.com/73155839/109601705-ae869880-7b62-11eb-935e-6355aa96a9cf.png)
-</p>
 
